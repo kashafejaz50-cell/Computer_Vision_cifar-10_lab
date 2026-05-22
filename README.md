@@ -21,4 +21,12 @@ The model is trained to classify 10 object categories such as airplanes, cars, c
 - Optimizer: Adam (lr=0.001)
 - Loss Function: CrossEntropyLoss
 
+- ## Results Visualization
+
+### Training Curves
+![Training Curves](training_curves.png)
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
   
